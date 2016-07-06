@@ -6,6 +6,7 @@ cask atom
 cask dropbox
 cask firefox
 cask google-chrome
+cask google-cloud-sdk
 cask google-drive
 cask google-japanese-ime
 cask gyazo
