@@ -5,6 +5,8 @@ tap caskroom/cask
 cask atom
 cask dropbox
 cask firefox
+cask flash-player
+cask flash
 cask google-chrome
 cask google-cloud-sdk
 cask google-drive
@@ -69,5 +71,8 @@ appstore 409183694 Keynote
 appstore 539883307 LINE
 appstore 409203825 Numbers
 appstore 409201541 Pages
+appstore 803453959 Slack
+appstore 886106985 Sunrise Calendar
 appstore 557168941 Tweetbot
+appstore 497799835 Xcode
 appstore 408981434 iMovie
