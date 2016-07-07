@@ -54,13 +54,15 @@ brew peco
 brew perl
 brew pkg-config
 brew python
+brew python3
 brew readline
 brew redis
 brew ruby
 brew sox --with-lame --with-flac --with-libvorbis
 brew sqlite
-brew vim
+brew vim --with-python3
 brew wget
+brew xz
 brew zsh
 
 tap rcmdnk/file
