@@ -7,6 +7,7 @@ cask dropbox
 cask firefox
 cask flash-player
 cask flash
+cask fluid
 cask google-chrome
 cask google-cloud-sdk
 cask google-drive
