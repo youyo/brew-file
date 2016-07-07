@@ -29,6 +29,7 @@ brew direnv
 brew flac
 brew gdbm
 brew git
+brew go
 brew heroku
 brew htop-osx
 brew hub
