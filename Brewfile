@@ -35,6 +35,7 @@ brew heroku
 brew htop-osx
 brew hub
 brew hugo
+brew ipmitool
 brew jq
 brew lame
 brew libogg
