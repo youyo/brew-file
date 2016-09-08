@@ -3,6 +3,7 @@
 
 tap caskroom/cask
 cask atom
+cask cyberduck
 cask dropbox
 cask firefox
 cask flash-player
@@ -71,6 +72,7 @@ brew brew-file
 
 # App Store applications
 appstore 443987910 1Password
+appstore 847496013 Deckset
 appstore 682658836 GarageBand
 appstore 409183694 Keynote
 appstore 539883307 LINE
