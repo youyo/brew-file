@@ -16,6 +16,7 @@ cask google-japanese-ime
 cask gyazo
 cask iterm2
 cask java
+cask kindle
 cask rubymotion
 cask sequel-pro
 cask skype
