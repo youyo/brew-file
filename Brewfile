@@ -71,6 +71,9 @@ brew zsh
 tap rcmdnk/file
 brew brew-file
 
+tap tcnksm/ghr
+brew ghr
+
 # App Store applications
 appstore 443987910 1Password
 appstore 847496013 Deckset
