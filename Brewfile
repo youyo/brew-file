@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask android-studio
 cask atom
 cask cyberduck
 cask dropbox
