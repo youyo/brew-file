@@ -18,6 +18,7 @@ cask gyazo
 cask iterm2
 cask java
 cask kindle
+cask psequel
 cask rubymotion
 cask sequel-pro
 cask skype
