@@ -29,6 +29,7 @@ brew libogg
 brew libpng
 brew libvorbis
 brew libxml2
+brew libxslt
 brew libyaml
 brew mad
 brew mas
