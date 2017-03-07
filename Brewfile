@@ -14,19 +14,26 @@ brew awscli
 brew brew-file
 brew direnv
 brew flac
+brew fontconfig
+brew freetype
+brew gd
 brew gdbm
 brew ghr
 brew git
 brew go
+brew graphviz
 brew heroku
 brew htop-osx
 brew hub
 brew hugo
 brew ipmitool
+brew jpeg
 brew jq
 brew lame
 brew libogg
 brew libpng
+brew libtiff
+brew libtool
 brew libvorbis
 brew libxml2
 brew libxslt
@@ -52,6 +59,7 @@ brew ruby
 brew sox --with-lame --with-flac --with-libvorbis
 brew sqlite
 brew vim --with-python3
+brew webp
 brew wget
 brew xz
 brew zsh
