@@ -20,6 +20,7 @@ brew gd
 brew gdbm
 brew ghr
 brew git
+brew gnupg
 brew go
 brew graphviz
 brew heroku
