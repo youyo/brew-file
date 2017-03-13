@@ -71,8 +71,8 @@ cask atom
 cask cyberduck
 cask dropbox
 cask firefox
-cask flash-player
 cask flash
+cask flash-player
 cask fluid
 cask google-chrome
 cask google-cloud-sdk
@@ -81,6 +81,7 @@ cask google-japanese-ime
 cask gyazo
 cask iterm2
 cask java
+cask keybase
 cask kindle
 cask psequel
 cask rubymotion
