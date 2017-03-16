@@ -64,6 +64,7 @@ brew webp
 brew wget
 brew xz
 brew zsh
+brew zsh-completions
 
 # Cask applications
 cask android-studio
