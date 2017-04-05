@@ -47,7 +47,6 @@ brew mysql-sandbox
 brew nkf
 brew oniguruma
 brew openssl
-brew packer
 brew pcre
 brew peco
 brew perl
