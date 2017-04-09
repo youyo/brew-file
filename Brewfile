@@ -22,6 +22,7 @@ brew ghr
 brew git
 brew gnupg
 brew go
+brew gradle
 brew graphviz
 brew heroku
 brew htop-osx
@@ -41,6 +42,7 @@ brew libxslt
 brew libyaml
 brew mad
 brew mas
+brew maven
 brew mongodb
 brew mysql
 brew mysql-sandbox
