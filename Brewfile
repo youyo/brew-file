@@ -72,6 +72,7 @@ brew zsh-completions
 # Cask applications
 cask android-studio
 cask atom
+cask blisk
 cask cyberduck
 cask dropbox
 cask firefox
