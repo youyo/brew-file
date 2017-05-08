@@ -12,6 +12,7 @@ tap tcnksm/ghr
 # Other Homebrew packages
 brew awscli
 brew brew-file
+brew chromedriver
 brew direnv
 brew flac
 brew fontconfig
