@@ -60,6 +60,7 @@ brew python3
 brew readline
 brew redis
 brew ruby
+brew selenium-server-standalone
 brew sox --with-lame --with-flac --with-libvorbis
 brew sqlite
 brew unrar
