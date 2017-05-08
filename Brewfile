@@ -52,6 +52,7 @@ brew openssl
 brew pcre
 brew peco
 brew perl
+brew phantomjs
 brew pkg-config
 brew postgresql
 brew python
