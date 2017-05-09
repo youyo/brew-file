@@ -64,6 +64,7 @@ brew ruby
 brew selenium-server-standalone
 brew sox --with-lame --with-flac --with-libvorbis
 brew sqlite
+brew tree
 brew unrar
 brew vim --with-python3
 brew webp
