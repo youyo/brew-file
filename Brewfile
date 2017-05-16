@@ -30,6 +30,7 @@ brew htop-osx
 brew hub
 brew hugo
 brew ipmitool
+brew jo
 brew jpeg
 brew jq
 brew lame
