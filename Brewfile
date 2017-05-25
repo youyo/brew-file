@@ -11,6 +11,7 @@ tap tcnksm/ghr
 
 # Other Homebrew packages
 brew awscli
+brew awsebcli
 brew brew-file
 brew chromedriver
 brew direnv
