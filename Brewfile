@@ -79,6 +79,7 @@ brew zsh-completions
 cask android-studio
 cask atom
 cask blisk
+cask clipy
 cask cyberduck
 cask dropbox
 cask firefox
