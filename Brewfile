@@ -10,6 +10,7 @@ tap rcmdnk/file
 tap tcnksm/ghr
 
 # Other Homebrew packages
+brew ansible
 brew awscli
 brew awsebcli
 brew brew-file
@@ -52,6 +53,7 @@ brew mysql-sandbox
 brew nkf
 brew oniguruma
 brew openssl
+brew openssl@1.1
 brew pcre
 brew peco
 brew perl
