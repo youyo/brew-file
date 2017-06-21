@@ -104,6 +104,7 @@ cask skype
 cask slack
 cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask vivaldi
 cask wercker-cli
 
