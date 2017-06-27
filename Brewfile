@@ -10,9 +10,10 @@ tap rcmdnk/file
 tap tcnksm/ghr
 
 # Other Homebrew packages
+brew adns
 brew ansible
+brew aws-elasticbeanstalk
 brew awscli
-brew awsebcli
 brew brew-file
 brew chromedriver
 brew direnv
@@ -21,9 +22,12 @@ brew fontconfig
 brew freetype
 brew gd
 brew gdbm
+brew gettext
 brew ghr
 brew git
+brew gmp
 brew gnupg
+brew gnutls
 brew go
 brew gradle
 brew graphviz
@@ -36,10 +40,18 @@ brew jo
 brew jpeg
 brew jq
 brew lame
+brew libassuan
+brew libffi
+brew libgcrypt
+brew libgpg-error
+brew libksba
 brew libogg
 brew libpng
+brew libtasn1
 brew libtiff
 brew libtool
+brew libunistring
+brew libusb
 brew libvorbis
 brew libxml2
 brew libxslt
@@ -50,14 +62,18 @@ brew maven
 brew mongodb
 brew mysql
 brew mysql-sandbox
+brew nettle
 brew nkf
+brew npth
 brew oniguruma
 brew openssl
 brew openssl@1.1
+brew p11-kit
 brew pcre
 brew peco
 brew perl
 brew phantomjs
+brew pinentry
 brew pkg-config
 brew postgresql
 brew python
@@ -77,47 +93,17 @@ brew xz
 brew zsh
 brew zsh-completions
 
-# Cask applications
-cask android-studio
-cask atom
-cask blisk
-cask clipy
-cask cyberduck
-cask dropbox
-cask firefox
-cask flash
-cask flash-player
-cask fluid
-cask google-chrome
-cask google-cloud-sdk
-cask google-drive
-cask google-japanese-ime
-cask gyazo
-cask iterm2
-cask java
-cask keybase
-cask kindle
-cask psequel
-cask rubymotion
-cask sequel-pro
-cask skype
-cask slack
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask vivaldi
-cask wercker-cli
-
 # App Store applications
 appstore 443987910 1Password
 appstore 847496013 Deckset
-appstore 682658836 GarageBand
+appstore 1037994372 DrCleanerPro
+appstore 668208984 GIPHY CAPTURE
 appstore 409183694 Keynote
 appstore 539883307 LINE
+appstore 715768417 Microsoft Remote Desktop
 appstore 409203825 Numbers
 appstore 409201541 Pages
-appstore 803453959 Slack
-appstore 886106985 Sunrise Calendar
+appstore 568494494 Pocket
+appstore 585829637 Todoist
 appstore 557168941 Tweetbot
 appstore 497799835 Xcode
-appstore 408981434 iMovie
