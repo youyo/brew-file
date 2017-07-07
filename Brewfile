@@ -26,6 +26,7 @@ brew gettext
 brew ghr
 brew git
 brew gmp
+brew gnu-time
 brew gnupg
 brew gnutls
 brew go
@@ -92,6 +93,9 @@ brew wget
 brew xz
 brew zsh
 brew zsh-completions
+
+# Cask applications
+cask rambox
 
 # App Store applications
 appstore 443987910 1Password
