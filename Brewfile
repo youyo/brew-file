@@ -87,6 +87,7 @@ brew sox --with-lame --with-flac --with-libvorbis
 brew sqlite
 brew tree
 brew unrar
+brew vagrant-completion
 brew vim --with-python3
 brew webp
 brew wget
@@ -96,6 +97,7 @@ brew zsh-completions
 
 # Cask applications
 cask rambox
+cask vagrant
 
 # App Store applications
 appstore 443987910 1Password
