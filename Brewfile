@@ -83,6 +83,7 @@ brew readline
 brew redis
 brew ruby
 brew selenium-server-standalone
+brew siege
 brew sox --with-lame --with-flac --with-libvorbis
 brew sqlite
 brew tree
