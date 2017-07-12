@@ -5,6 +5,8 @@ tap caskroom/cask
 
 tap homebrew/core
 
+tap homebrew/nginx
+
 tap rcmdnk/file
 
 tap tcnksm/ghr
