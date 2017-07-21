@@ -16,7 +16,9 @@ brew adns
 brew ansible
 brew aws-elasticbeanstalk
 brew awscli
+brew boost
 brew brew-file
+brew c-ares
 brew chromedriver
 brew direnv
 brew flac
@@ -39,11 +41,15 @@ brew htop-osx
 brew hub
 brew hugo
 brew ipmitool
+brew jansson
+brew jemalloc
 brew jo
 brew jpeg
 brew jq
 brew lame
 brew libassuan
+brew libev
+brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
@@ -66,6 +72,7 @@ brew mongodb
 brew mysql
 brew mysql-sandbox
 brew nettle
+brew nghttp2
 brew nkf
 brew npth
 brew oniguruma
@@ -87,6 +94,7 @@ brew ruby
 brew selenium-server-standalone
 brew siege
 brew sox --with-lame --with-flac --with-libvorbis
+brew spdylay
 brew sqlite
 brew tree
 brew unrar
