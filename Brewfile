@@ -14,6 +14,7 @@ tap tcnksm/ghr
 # Other Homebrew packages
 brew adns
 brew ansible
+brew arping
 brew aws-elasticbeanstalk
 brew awscli
 brew boost
@@ -54,6 +55,7 @@ brew libffi
 brew libgcrypt
 brew libgpg-error
 brew libksba
+brew libnet
 brew libogg
 brew libpng
 brew libtasn1
