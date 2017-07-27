@@ -64,6 +64,7 @@ brew libtool
 brew libunistring
 brew libusb
 brew libvorbis
+brew libwebsockets
 brew libxml2
 brew libxslt
 brew libyaml
@@ -71,6 +72,7 @@ brew mad
 brew mas
 brew maven
 brew mongodb
+brew mosquitto
 brew mysql
 brew mysql-sandbox
 brew nettle
