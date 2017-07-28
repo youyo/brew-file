@@ -112,7 +112,6 @@ brew zsh-completions
 
 # Cask applications
 cask rambox
-cask thunderbird
 cask vagrant
 
 # App Store applications
