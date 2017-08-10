@@ -24,6 +24,7 @@ brew chromedriver
 brew direnv
 brew flac
 brew fontconfig
+brew fping
 brew freetype
 brew gd
 brew gdbm
