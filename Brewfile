@@ -105,6 +105,7 @@ brew tree
 brew unrar
 brew vagrant-completion
 brew vim --with-python3
+brew watch
 brew webp
 brew wget
 brew xz
